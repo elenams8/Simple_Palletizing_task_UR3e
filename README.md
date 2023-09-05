@@ -10,7 +10,7 @@ Per assolir aquesta tasca es pot enfocar de dues maneres diferents:
 Per acompanyar cadascun dels codis, es comparteix un vídeo explicatiu del programa. Podeu observar que el resultat és el mateix.
 El podeu veure en el següent enllaç:
 * Enllaç programació per Bucle: https://youtu.be/Qu46bOYWBGQ 
-* Enllaç Programació per Plantilles:
+* Enllaç Programació per Plantilles: https://youtu.be/UanZ4aFigwA
 
 
 
